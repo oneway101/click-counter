@@ -22,6 +22,5 @@ class ViewController: UIViewController {
         self.label.text = "\(self.count)"
     }
 
-
 }
 
